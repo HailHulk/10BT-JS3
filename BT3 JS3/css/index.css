@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #ket-qua {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+  }
+  
+  .external-link {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .external-link:hover {
+    color: orange;
+    text-decoration: underline;
+  }
+  
